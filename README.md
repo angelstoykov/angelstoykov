@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @angelstoykov;
 - 👀 I’m interested in coding;
-- 🌱 I’m currently learning Java Script;
 - 💞️ I’m looking to collaborate on some interesting project;
 - 📫 You can reach me at stoykov.angel@gmail.com
 
